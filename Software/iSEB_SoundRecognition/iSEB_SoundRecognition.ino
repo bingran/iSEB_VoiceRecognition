@@ -3,7 +3,6 @@
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_Sensor.h>
 #include "Adafruit_SHT31.h" 
-#include "Arduino.h"
 #include "AudioFileSourceLittleFS.h"
 #include "AudioGeneratorWAV.h"
 #include "AudioOutputI2S.h"
