@@ -112,3 +112,8 @@ This project uses an ESP32-S3 with an OLED display, temperature and humidity sen
 -   Improved TTS using ESP32 software TTS.
     
 -   Dynamic WAV file generation.
+
+
+## For VC-02-Kit program 
+
+- http://voice.ai-thinker.com
